@@ -1,0 +1,10 @@
+[
+  {
+    "policyId": 1,
+    "customerId": 2,
+    "type": "car",
+    "coverageAmount": 10000,
+    "premium": 250,
+    "status": "active"
+  }
+]
